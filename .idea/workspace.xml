@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="d2e4c204-046a-42d2-8c1d-dfe82a589906" name="Default" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change beforePath="$PROJECT_DIR$/config-server/README.asc" afterPath="$PROJECT_DIR$/config-server/README.asc" />
-      <change beforePath="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml" afterPath="$PROJECT_DIR$/config-server/src/main/resources/bootstrap.yml" />
     </list>
     <ignored path="$PROJECT_DIR$/.gradle/" />
     <ignored path="$PROJECT_DIR$/build/" />
@@ -44,8 +44,8 @@
       <file leaf-file-name="README.asc" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/config-server/README.asc">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="368">
-              <caret line="207" column="0" lean-forward="true" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+            <state relative-caret-position="173">
+              <caret line="191" column="103" lean-forward="false" selection-start-line="191" selection-start-column="103" selection-end-line="191" selection-end-column="103" />
               <folding />
             </state>
           </provider>
@@ -1171,7 +1171,7 @@
       <option name="presentableId" value="Default" />
       <updated>1520774235709</updated>
       <workItem from="1520774250712" duration="4597000" />
-      <workItem from="1520811137016" duration="3329000" />
+      <workItem from="1520811137016" duration="3498000" />
     </task>
     <servers />
   </component>
@@ -1181,7 +1181,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="7926000" />
+    <option name="totallyTimeSpent" value="8095000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="1600" y="-4" width="1920" height="1084" extended-state="6" />
@@ -1340,8 +1340,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/config-server/README.asc">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="368">
-          <caret line="207" column="0" lean-forward="true" selection-start-line="207" selection-start-column="0" selection-end-line="207" selection-end-column="0" />
+        <state relative-caret-position="173">
+          <caret line="191" column="103" lean-forward="false" selection-start-line="191" selection-start-column="103" selection-end-line="191" selection-end-column="103" />
           <folding />
         </state>
       </provider>
